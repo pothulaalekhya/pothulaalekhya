@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Techies👋
 
 <h1 align="center">Hi 👋, I'm P Alekhya Lakshmi</h1>
 <h3 align="center">A passionate Java Full Stack Web Developer | Internship @ Tap Academy | Skilled in Java, Spring Boot, React, Vite, HTML5, CSS3, MySQL, Git/GitHub</h3>
